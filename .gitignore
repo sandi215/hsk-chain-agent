@@ -1,0 +1,11 @@
+node_modules/
+.env
+state.json
+contracts/out/
+contracts/cache/
+contracts/node_modules/
+contracts/artifacts/
+agent/dist/
+agent/state.json
+agent/node_modules/
+*.log
